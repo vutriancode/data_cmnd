@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>CMND7.png</filename>
+	<path>C:\Users\vutri\Desktop\New folder\CMND7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>706</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cccd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>8</ymin>
+			<xmax>341</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>
